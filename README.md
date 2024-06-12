@@ -18,7 +18,7 @@ Com base no vídeo de lançamento do iPhone de 2007, elaborei a diagramação da
 
 O resultado foi a criação de uma aplicação como seu diagrama de estruturamento para expor o intendimento e o conhecimento adquirido no curso e com o video de lançamento do iphone de 2007.
 
-## 📈 Diagrama da UML
+## 📈 Diagrama UML
 
 ![Diagrama](https://github.com/RobsonJS-17/trilha-desafio-poo-uml/blob/main/IphoneUml/ImagemUml/IphoneUml_02.PNG).
 
