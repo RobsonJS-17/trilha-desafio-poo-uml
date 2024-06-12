@@ -16,7 +16,7 @@ Com base no vídeo de lançamento do iPhone de 2007, elaborei a diagramação da
 
 ## 🚀 Resultados
 
-O resultado foi a criação de uma aplicação como seu diagrama de estruturamento para expor o intendimento e o conhecimento adquirido no curso e com o video de lançamento do iphone de 2007.
+O resultado foi a criação de uma aplicação e o seu diagrama de estruturamento para expor o intendimento e o conhecimento adquirido no curso e com o video de lançamento do iphone de 2007.
 
 ## 📈 Diagrama UML
 
